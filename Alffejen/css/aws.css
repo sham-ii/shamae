@@ -1,4 +1,9 @@
 div.center{margin:auto;
+           background-image: url('/Alffejen/images/awscov.jpg');
+           background-size: cover;
+           background-position: center;
+           color: #333;
+           text-align: center;
            background-color: #333; 
            height: 200px; 
            width: 100%; 
