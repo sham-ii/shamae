@@ -10,7 +10,7 @@ div.center1{margin: auto;
             height: 620px; 
             width: 100%; 
             float: left;
-            background-image:url("/Alffejen/images/aws.jpg");
+            background-image:url("aws.jpg");
             background-repeat: no-repeat;
             background-size: cover;
             background-position: center;
